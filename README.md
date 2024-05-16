@@ -1,3 +1,3 @@
 # Demo
 
-This is a demo repo
+Check out this demo repository
